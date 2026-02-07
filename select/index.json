@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "ViViD/キミコイ【セルフカバー】",
+  "base_artist": "SHIN",
+  "createdAt": "2026-02-07T12:50:41.406535Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Vivid",
+      "artist": "Lemonade",
+      "has_synced": true,
+      "path": "select/01_Vivid_Lemonade.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Vivid",
+      "artist": "Electronic",
+      "has_synced": false,
+      "path": "select/02_Vivid_Electronic.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Vivid Red",
+      "artist": "Misfits",
+      "has_synced": true,
+      "path": "select/03_Vivid_Red_Misfits.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ViViD",
+      "artist": "May'n",
+      "has_synced": true,
+      "path": "select/04_ViViD_May'n.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Drop You Vivid Colours",
+      "artist": "Luminous Orange",
+      "has_synced": false,
+      "path": "select/05_Drop_You_Vivid_Colours_Luminous_Orange.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "VIVID VICE",
+      "artist": "Who-ya Extended",
+      "has_synced": true,
+      "path": "select/06_VIVID_VICE_Who-ya_Extended.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Vivid Memories Turn to Fantasies",
+      "artist": "Neil Cicierega",
+      "has_synced": false,
+      "path": "select/07_Vivid_Memories_Turn_to_Fantasies_Neil_Cicierega.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Life in the Vivid Dream",
+      "artist": "Grimes",
+      "has_synced": true,
+      "path": "select/08_Life_in_the_Vivid_Dream_Grimes.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Vivid Cheek Love Song",
+      "artist": "Deerhoof",
+      "has_synced": false,
+      "path": "select/09_Vivid_Cheek_Love_Song_Deerhoof.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Vivid (Radio Edit)",
+      "artist": "Electronic",
+      "has_synced": true,
+      "path": "select/10_Vivid_(Radio_Edit)_Electronic.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "VIVID DREAMS",
+      "artist": "KAYTRANADA feat. River Tiber",
+      "has_synced": true,
+      "path": "select/11_VIVID_DREAMS_KAYTRANADA_feat._River_Tiber.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "VIVID BANG",
+      "artist": "Who-ya Extended",
+      "has_synced": true,
+      "path": "select/12_VIVID_BANG_Who-ya_Extended.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "VIVID VICE",
+      "artist": "Who‐ya Extended",
+      "has_synced": true,
+      "path": "select/13_VIVID_VICE_Who‐ya_Extended.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "VIVID TRAVELER",
+      "artist": "Shinnosuke",
+      "has_synced": false,
+      "path": "select/pl_01_VIVID_TRAVELER_Shinnosuke.txt"
+    }
+  ]
+}
